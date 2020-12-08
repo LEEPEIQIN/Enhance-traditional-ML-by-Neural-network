@@ -6,4 +6,5 @@ please define the data, cateorical_index, numerical_index, name, methed, hold, f
 
 
 
-![contents](https://github.com/RGNil/2020MCM_paper/blob/master/contents.png)
+![contents](https://github.com/LEEPEIQIN/Enhance-traditional-ML-by-Neural-network/Using Neural Network ensemble method to enhance traditional Machine Learning Classification accuracy.pdf)
+
