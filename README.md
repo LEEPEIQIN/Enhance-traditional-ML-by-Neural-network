@@ -9,5 +9,5 @@ please define the data, cateorical_index, numerical_index, name, methed, hold, f
 #################################################################
 
 
-![contents](https://github.com/LEEPEIQIN/Enhance-traditional-ML-by-Neural-network/paper.pdf)
+![contents](./paper.pdf)
 
